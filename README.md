@@ -9,7 +9,7 @@ Grab the article at [https://blog.bitsrc.io/use-webrtc-and-peerjs-to-build-an-im
 
 ## What's it all about?
 
-* Abc
+* Run NPX using `npx peerjs --port 9000`; default install-and-run results in **{"name":"PeerJS Server","description":"A server side element to broker connections between PeerJS clients.","website":"http://peerjs.com/"}**
 
 ## Thanks
 

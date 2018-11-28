@@ -1,0 +1,22 @@
+{
+  "name": "supreme-octo-lamp",
+  "version": "1.0.0",
+  "description": "Build an Image Sharing App with WebRTC and PeerJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithtmccartney/supreme-octo-lamp.git"
+  },
+  "author": "Keith McCartney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keithtmccartney/supreme-octo-lamp/issues"
+  },
+  "homepage": "https://github.com/keithtmccartney/supreme-octo-lamp#readme",
+  "dependencies": {
+    "peer": "^0.2.10"
+  }
+}
