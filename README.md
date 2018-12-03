@@ -10,6 +10,7 @@ Grab the article at [https://blog.bitsrc.io/use-webrtc-and-peerjs-to-build-an-im
 ## What's it all about?
 
 * Run NPX using `npx peerjs --port 9000`; default install-and-run results in **{"name":"PeerJS Server","description":"A server side element to broker connections between PeerJS clients.","website":"http://peerjs.com/"}**
+* Load the '...src/sending.html' file, upload a file, load the '...src/receiving.html' file, watch it display; easy as (obviously read in-between the lines via `localhost:9000`; the following should be appearing on the console **Started PeerServer on ::, port: 9000, path: / (v. 0.2.10)**)...
 
 ## Thanks
 
